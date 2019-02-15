@@ -1,0 +1,4 @@
+#Fri Feb 15 09:55:47 VLAT 2019
+base.0=/home/poman/YaJeRebenok/ParkinsonAccelerometr/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

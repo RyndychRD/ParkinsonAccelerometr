@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d9873b765323eb70f25a416299e1040e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/poman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5b506fd393c000760107186f4a61068e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4602736b6897f6642af2ee7ce1b2d7b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d12067e0c4580c32d5c9763ffd5de37a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b2ec0ca4cf90711d3e58ba340c6e43ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/799d09c4c97a9afb14e91be2806664e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/27465aea6016f95e1bdbd0870baa937e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c96489db1328ba8bfaafb8aab52cd3aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2b82b4205487333bc73130247dc0acf6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1bb797b704084c6b90867343d65ec37d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3fc09950278e569f03821983f3a158c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/cbbd83a914d7e400942c34e80666f86a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4b211548ca336a0b3dea6bbf74f5e078/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/290ab0c50428da8772b36e3c22ea0ece/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e647a62908f05037ae9d0395442bcb12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9863e67122036b3dce1176827ae39527/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c69aa10bca9980c2f4c3ad4a8cbfcc25/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bb3e16986315da1b21ccf6ff49a2e739/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ba5077ed6ab37c36cceb3287e8aa4f1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b5a468f9d6ce67e9d246a54785a4bae9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/45bed55e7c4986836fb497f851668ab2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f87e6f04b9fcd7631ecf14ddc07cb399/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a17b5edad4498cecc9cedb3aa1b0e8f8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6888c85f76dc22a693dcded40f6594fc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5302622b2b4f9fac0487c6229e452818/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ecc81f5718f0d639987f2f6dba8d2508/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2d8d10a4336e25e97f7dd7c675a90d37/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:4:5-48
+		INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+		INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:2:11-69
+dist:module
+ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:6:18-37
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/poman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5b506fd393c000760107186f4a61068e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/poman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5b506fd393c000760107186f4a61068e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9863e67122036b3dce1176827ae39527/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9863e67122036b3dce1176827ae39527/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c69aa10bca9980c2f4c3ad4a8cbfcc25/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c69aa10bca9980c2f4c3ad4a8cbfcc25/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9863e67122036b3dce1176827ae39527/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.parkinsonaccelerometr.Accelerometr
+ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:17:9-59
+	android:name
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:17:19-47
+activity#com.example.parkinsonaccelerometr.WatchVideo
+ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:18:9-48
+	android:name
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:18:19-45
+activity#com.example.parkinsonaccelerometr.MainActivity
+ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d9873b765323eb70f25a416299e1040e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d9873b765323eb70f25a416299e1040e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/poman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5b506fd393c000760107186f4a61068e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/poman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5b506fd393c000760107186f4a61068e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4602736b6897f6642af2ee7ce1b2d7b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4602736b6897f6642af2ee7ce1b2d7b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d12067e0c4580c32d5c9763ffd5de37a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d12067e0c4580c32d5c9763ffd5de37a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b2ec0ca4cf90711d3e58ba340c6e43ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b2ec0ca4cf90711d3e58ba340c6e43ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/799d09c4c97a9afb14e91be2806664e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/799d09c4c97a9afb14e91be2806664e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/27465aea6016f95e1bdbd0870baa937e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/27465aea6016f95e1bdbd0870baa937e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c96489db1328ba8bfaafb8aab52cd3aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c96489db1328ba8bfaafb8aab52cd3aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2b82b4205487333bc73130247dc0acf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2b82b4205487333bc73130247dc0acf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1bb797b704084c6b90867343d65ec37d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1bb797b704084c6b90867343d65ec37d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3fc09950278e569f03821983f3a158c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3fc09950278e569f03821983f3a158c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/cbbd83a914d7e400942c34e80666f86a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/cbbd83a914d7e400942c34e80666f86a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4b211548ca336a0b3dea6bbf74f5e078/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4b211548ca336a0b3dea6bbf74f5e078/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/290ab0c50428da8772b36e3c22ea0ece/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/290ab0c50428da8772b36e3c22ea0ece/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e647a62908f05037ae9d0395442bcb12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e647a62908f05037ae9d0395442bcb12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9863e67122036b3dce1176827ae39527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9863e67122036b3dce1176827ae39527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c69aa10bca9980c2f4c3ad4a8cbfcc25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c69aa10bca9980c2f4c3ad4a8cbfcc25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bb3e16986315da1b21ccf6ff49a2e739/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bb3e16986315da1b21ccf6ff49a2e739/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ba5077ed6ab37c36cceb3287e8aa4f1a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ba5077ed6ab37c36cceb3287e8aa4f1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b5a468f9d6ce67e9d246a54785a4bae9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b5a468f9d6ce67e9d246a54785a4bae9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/45bed55e7c4986836fb497f851668ab2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/45bed55e7c4986836fb497f851668ab2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f87e6f04b9fcd7631ecf14ddc07cb399/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f87e6f04b9fcd7631ecf14ddc07cb399/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a17b5edad4498cecc9cedb3aa1b0e8f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a17b5edad4498cecc9cedb3aa1b0e8f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6888c85f76dc22a693dcded40f6594fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6888c85f76dc22a693dcded40f6594fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5302622b2b4f9fac0487c6229e452818/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5302622b2b4f9fac0487c6229e452818/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ecc81f5718f0d639987f2f6dba8d2508/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/poman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ecc81f5718f0d639987f2f6dba8d2508/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2d8d10a4336e25e97f7dd7c675a90d37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/poman/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2d8d10a4336e25e97f7dd7c675a90d37/AndroidManifest.xml:20:5-44
+INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+		INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+		ADDED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml
+		INJECTED from /home/poman/YaJeRebenok/ParkinsonAccelerometr/app/src/main/AndroidManifest.xml

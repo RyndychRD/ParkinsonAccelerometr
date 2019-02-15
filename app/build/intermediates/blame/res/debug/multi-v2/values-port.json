@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/poman/YaJeRebenok/ParkinsonAccelerometr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/poman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d9873b765323eb70f25a416299e1040e/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
