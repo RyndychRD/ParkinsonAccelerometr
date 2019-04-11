@@ -1,4 +1,4 @@
-#Fri Feb 15 10:34:27 VLAT 2019
-base.0=/home/poman/YaJeRebenok/ParkinsonAccelerometr/app/build/intermediates/dex/debug/mergeDexDebug/out
+#Fri Apr 12 09:47:40 GMT+10:00 2019
+base.0=C\:\\Users\\poman\\Desktop\\ParkinsonAccelerometr\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

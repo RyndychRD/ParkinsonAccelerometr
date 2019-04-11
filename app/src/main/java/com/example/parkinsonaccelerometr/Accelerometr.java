@@ -23,6 +23,8 @@ import java.util.List;
 import android.os.Environment;
 import android.widget.TextView;
 
+import com.androidplot.xy.XYPlot;
+
 public class Accelerometr extends AppCompatActivity {
 
     //DONE make write to file
@@ -37,13 +39,13 @@ public class Accelerometr extends AppCompatActivity {
     boolean isPresent=false;
     boolean isStart=false;
     final String ACCELEROMETR_CRD ="Accelerometr_Coordinates";
-
+    private XYPlot plot;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_accelerometr);
-
+        plot=(XYPlot) findViewById(R.id.Accelerometr_graph);
 
         sensorManager=(SensorManager) getSystemService(SENSOR_SERVICE);
 
@@ -100,10 +102,8 @@ public class Accelerometr extends AppCompatActivity {
     }
 
     void readFile() {
-        try {
-            TextView textView = findViewById(R.id.textView2);
-            textView.setText("");
-            textView.setMovementMethod(new ScrollingMovementMethod());
+        try
+        {
             // открываем поток для чтения
             BufferedReader br = new BufferedReader(new InputStreamReader(
                     openFileInput(ACCELEROMETR_CRD)));
@@ -113,7 +113,7 @@ public class Accelerometr extends AppCompatActivity {
             while ((str = br.readLine()) != null) {
                 result=result+str+"\n";
             }
-            textView.setText(result);
+
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {

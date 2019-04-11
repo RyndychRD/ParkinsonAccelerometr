@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/poman/YaJeRebenok/ParkinsonAccelerometr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "outputFile": "C:\\Users\\poman\\Desktop\\ParkinsonAccelerometr\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
             "map": [
                 {
-                    "source": "/home/poman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d9873b765323eb70f25a416299e1040e/res/values-watch-v21/values-watch-v21.xml",
+                    "source": "C:\\Users\\poman\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\7d64a8b661a065b5bd63e20231d82fcf\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

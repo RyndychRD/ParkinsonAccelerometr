@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/poman/YaJeRebenok/ParkinsonAccelerometr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\poman\\Desktop\\ParkinsonAccelerometr\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/poman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d9873b765323eb70f25a416299e1040e/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\poman\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\7d64a8b661a065b5bd63e20231d82fcf\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
