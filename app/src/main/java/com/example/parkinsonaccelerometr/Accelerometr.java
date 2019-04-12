@@ -33,7 +33,7 @@ public class Accelerometr extends AppCompatActivity {
     //TODO add gyroscope graph
     //TODO calibration
     //TODO what if they dont have SDcard? Do we write on sdcard or on device?
-
+    //https://github.com/halfhp/androidplot/blob/master/docs/quickstart.md
     SensorManager sensorManager ;
     Sensor sensor;
     boolean isPresent=false;
